@@ -9,8 +9,7 @@ The Leap Year Checker evaluates whether a given year is a leap year according to
 ## How to Use
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/leap-year-checker.git
-
+git clone https://github.com/rajeshchau/leap-year.git
 markdown
 Copy code
 
